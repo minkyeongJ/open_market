@@ -1,9 +1,6 @@
-html,
-body {
-  font-family: var(--font-nanum-gothic);
-}
+* {
+  font-family: var(--font-nanum-gothic); }
 
 p {
   display: block;
-  color: blue;
-}
+  color: blue; }
