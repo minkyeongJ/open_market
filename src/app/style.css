@@ -1,2 +1,9 @@
+html,
+body {
+  font-family: var(--font-nanum-gothic);
+}
+
 p {
-  color: blue; }
+  display: block;
+  color: blue;
+}
